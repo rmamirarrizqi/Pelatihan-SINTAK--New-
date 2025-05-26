@@ -8,6 +8,7 @@ function HomePage() {
     <>
       <NavBar />
       <HeroSection />
+      <h1>Hello World</h1>
       <Section2 />
       <Footer />
     </>

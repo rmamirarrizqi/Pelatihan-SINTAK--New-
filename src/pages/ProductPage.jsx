@@ -27,7 +27,7 @@ function ProductHero() {
     <div
       className="hero h-[450px]"
       style={{
-        backgroundImage: "url(public/ProductPage.jpg)",
+        backgroundImage: "url(/ProductPage.jpg)",
       }}
     >
       <div className="hero-overlay"></div>

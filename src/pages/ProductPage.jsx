@@ -27,7 +27,7 @@ function ProductHero() {
     <div
       className="hero h-[450px]"
       style={{
-        backgroundImage: "url(src/public/ProductPage.jpg)",
+        backgroundImage: "url(public/ProductPage.jpg)",
       }}
     >
       <div className="hero-overlay"></div>
@@ -57,7 +57,7 @@ function Product1() {
       <div className="card bg-base-100 w-96 shadow-xl">
         <figure className="px-10 pt-10">
           <img
-            src="src\public\Americano.jpg"
+            src="Americano.jpg"
             alt="Americano"
             className="rounded-xl w-70 h-50"
           />
@@ -83,7 +83,7 @@ function Product2() {
       <div className="card bg-base-100 w-96 shadow-xl">
         <figure className="px-10 pt-10">
           <img
-            src="src\public\Espresso.jpg"
+            src="Espresso.jpg"
             alt="Espresso"
             className="rounded-xl w-70 h-50"
           />
@@ -108,11 +108,7 @@ function Product3() {
     <>
       <div className="card bg-base-100 w-96 shadow-xl">
         <figure className="px-10 pt-10">
-          <img
-            src="src\public\Latte.jpg"
-            alt="Latte"
-            className="rounded-xl w-70 h-50"
-          />
+          <img src="Latte.jpg" alt="Latte" className="rounded-xl w-70 h-50" />
         </figure>
         <div className="card-body items-center text-center">
           <h2 className="card-title">Latte</h2>
@@ -135,7 +131,7 @@ function Product4() {
       <div className="card bg-base-100 w-96 shadow-xl">
         <figure className="px-10 pt-10">
           <img
-            src="src\public\LongBlack.jpg"
+            src="LongBlack.jpg"
             alt="Long Black"
             className="rounded-xl w-70 h-50"
           />

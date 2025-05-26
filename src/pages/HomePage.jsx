@@ -9,6 +9,7 @@ function HomePage() {
       <NavBar />
       <HeroSection />
       <Section2 />
+      <h1>Hello World!</h1>
       <Footer />
     </>
   );
